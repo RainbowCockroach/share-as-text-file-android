@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Share as Text File</string>
+    <string name="action_label">Save as .txt</string>
+    <string name="nothing_to_save">Nothing to save</string>
+    <string name="could_not_create_file">Couldn\'t create the file</string>
+</resources>
